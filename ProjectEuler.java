@@ -1,3 +1,5 @@
+
+
 public class ProjectEuler { 
 
    public static int problem1() {
@@ -14,12 +16,9 @@ public class ProjectEuler {
    }
    
    public static int problem2() {
-      for(int i = 0; i < 4000000; i++) {
-         
-         
-         if (
       
       return 0;
+      
    }
    
    public static void main(String[] args) {
